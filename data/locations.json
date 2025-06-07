@@ -1,0 +1,1869 @@
+[
+  {
+    "name": "(AM) Interacted With Computer",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Pressed Fire Alarm",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Microwave Casserole Destroyed",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Get Soda (1)",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Get Soda (2)",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Used Hand Dryer",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) H.E.V. Suit Picked Up",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|",
+    "place_item": [
+      "H.E.V. Suit"
+    ]
+  },
+  {
+    "name": "(AM) Locker Room Heath Station ",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Started Anti-Mass Spectrometer",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(AM) Caused Resonance Cascade (Nice going, jackass)",
+    "region": "Anomalous Materials",
+    "category": [
+      "Anomalous Materials"
+    ],
+    "requires": "|Anomalous Materials|"
+  },
+  {
+    "name": "(UC) Meet With Scientists",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Crowbar Picked Up",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Locker Room Pistol",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Locker Room Health Station ",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Exploding Room Health Station",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Catwalk Collapsed",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Pistol Near Dead Guard",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Health Station Near Dead Guard",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Health Station Near Houndeyes",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Security Station Explosives ",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Security Station Health Station",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Security Station Pistol",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Health Station Near Dumpster",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Deagle Near Dead Guard",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Health Station On Ledge ",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Deagle Near Health Station On Ledge",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Health Station Near Elevator",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Lower Canals Health Station",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Cleared Box Jumping Puzzle",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(UC) Started Office Complex Elevator",
+    "region": "Unforeseen Consequences",
+    "category": [
+      "Unforeseen Consequences"
+    ],
+    "requires": "|Unforeseen Consequences|"
+  },
+  {
+    "name": "(OC) Turn Power Off (Hallway Wire)",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Shotgun Before Guard Station ",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Guard Station Grenades",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Flooded Lab Health Station",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Health Station Near Turret",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Dynamite Near Turret",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Storage Room Shotgun",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Shortcut Discovered",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Office Health Station ",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Health Station Near Stairs",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Shortcut Shotgun",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Health Station Near Guard",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Locked Room Health Station",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Locked Room Grenades",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Grenades Near Bullsquid",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Health Station Near Zombies",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Freezer Grenades",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Office Shotgun",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(OC) Hole Near Office Grenades",
+    "region": "Office Complex",
+    "category": [
+      "Office Complex"
+    ],
+    "requires": "|Office Complex|"
+  },
+  {
+    "name": "(WGH) Health Station Near Silo Door",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) H.E.V. Station Near Silo Door",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) MP5 Picked Up",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Cafeteria Health Station",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near Scientists",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) MP5 Near 1st HECU Grunt",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near 1st HECU Grunt",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) H.E.V. Station Near 1st HECU Encounter",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near 1st HECU Encounter",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near Conveyor ",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) H.E.V. Station Near Conveyor",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near Stationed Grunts",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Health Station Near Surface Access",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Outside Health Station",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Bunker Health Station",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Bunker H.E.V. Station ",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Storage Area 1 Dynamite",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Kitchen LMG Picked Up",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Kitchen Health Station",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Security Station Shotgun Picked Up",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Security Station Health Station",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "name": "(WGH) Silo Door Opened",
+    "region": "\"We've Got Hostiles\"",
+    "category": [
+      "\"We've Got Hostiles\""
+    ],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  {
+    "victory": false,
+    "name": "(BP) Explosive Room Grenades",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Dynamite Under Elevator ",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Bridge Exploded (1)",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Grenades Near Guard",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Bridge Exploded (2)",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Oxygen And Fuel Turned On",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Bridge Exploded (3)",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Health Station Near Elevator Shaft",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Health Station At Bottom Of Elevator Shaft",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Power Turned On",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Test Rocket Fired",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Revolver Picked Up",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) H.E.V. Station Near Radioactive River",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Health Station Near Radioactive River",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(BP) Broke Through Floor",
+    "region": "Blast Pit",
+    "category": [
+      "Blast Pit"
+    ],
+    "requires": "|Blast Pit|"
+  },
+  {
+    "name": "(PU) Revolver Near Injured Guard",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) H.E.V. Station Near Injured Guard",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Headcrab Hallway Health Station",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) SMG Grenades Picked Up",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Health Station Near Turret",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Shotgun On Table",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Bunker Grenades",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Bunker Health Station",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) HECU Outpost H.E.V. Station",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) First Aid Station Near Power Switch",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Generator Room Drained",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Power Turned On",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(PU) Gargantua Killed",
+    "region": "Power Up",
+    "category": [
+      "Power Up"
+    ],
+    "requires": "|Power Up|"
+  },
+  {
+    "name": "(OAR) Satchell Charges Near Elevators",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Health Station Before Moving Hook",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Hook Moved",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Health Station Near HECU Grunt (Spinning Elevator)",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) H.E.V. Station Near Elevator",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) USAS-12 In Office",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Secret MP40",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Secret Satchell Charges",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Deagle In Boarded Up Office",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Health Station After Headcrab Ambush",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Dynamite In Tram Cart Station",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) H.E.V. Station Near Gate Controls",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Tram Gate Raised",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Emplaced Gun Ambush Health Station",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Emplaced Gun Ambush Gate Raised",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) SMG Grenades Near Explosive Boxes",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Health Station Near Turrets",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Sniper Rifle Picked Up",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Rocket Launch Facility Health Station ",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Launched Rocket",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(OAR) Tripmines Near Fast Cart",
+    "region": "On A Rail",
+    "category": [
+      "On A Rail"
+    ],
+    "requires": "|On A Rail|"
+  },
+  {
+    "name": "(A) Health Station Near Barrel Puzzel",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Flooded Security Room SMG Grenades",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Scientist Eaten By Ichthyosaur",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Observation Room Health Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Observation Room H.E.V. Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Shark Cage Crossbow Pickup",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Generator Turned On",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Bullsquid Troll Health Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Server Room H.E.V. Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Assassin Room Health Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Assassin Room H.E.V. Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Surface Side Room Health Station",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(A) Knocked Out",
+    "region": "Apprehension",
+    "category": [
+      "Apprehension"
+    ],
+    "requires": "|Apprehension|"
+  },
+  {
+    "name": "(RP) Crowbar Picked Up",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Deadg Guard's Pistol",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Health Station Past Barnacles",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) H.E.V. Station Past Spiral Staircase",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Mixing Room Health Station",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Conveyor Room Aerosol Can",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Maintinance Access Health Station",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Maintinance Access Aerosol Can",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Revolver Near Bullsquid",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Satchell Charges Near Bullsquid",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Health Station Near Bullsquid",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Large Converyor Room - Health Station Near Stairs",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Large Converyor Room - Stairs Aerosol Cans",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(RP) Escaped Residue Processing",
+    "region": "Residue Processing",
+    "category": [
+      "Residue Processing"
+    ],
+    "requires": "|Residue Processing|"
+  },
+  {
+    "name": "(QE) Houndeye Kennel Health Station",
+    "region": "Questionable Ethics",
+    "category": [
+      "Quesitonable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Headcrab Annihilation Room Health Station",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Conducted \"Experiment\" #1",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Health Station Past First Experiment",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Lobby H.E.V. Station",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Headcrab Cage Crossbow",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) \"Experiment\" #2 Health Station",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Conducted \"Experiment\" #2",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Headcrab Cage Snarks",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Health Station Near Fenced In Area",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) MP40 Near Health Station",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Health Station Near Laser Activator",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Gauss Cannon Picked Up",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Health Station Near Surgical Equipment",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Surgical Equipment Turned Off",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(QE) Let Into Surface Tension",
+    "region": "Questionable Ethics",
+    "category": [
+      "Questionable Ethics"
+    ],
+    "requires": "|Questionable Ethics|"
+  },
+  {
+    "name": "(ST) Shot Down Dam Helicopter",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension| AND (|Rocket Launcher| OR |Gauss Cannon|)"
+  },
+  {
+    "name": "(ST) Turbine Controll Health Station",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Desert Helicopter Shot Down",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension| AND (|Rocket Launcher| OR |Gauss Cannon|)"
+  },
+  {
+    "name": "(ST) Storm Drain Hatch Opened",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Cliffside Rocket Launcher ",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Helicotper Shot Down",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Tank Encounter Health Station 1",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Tank Encounter Health Station 2",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Roof Grenades",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Roof Sniper Rifle",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Escaped Tripmine Room",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Hivehand Pickup",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Storage Room Weapons",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Storage Room Super Blaster",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Exploded Building Dynamite",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Landing Pad Helicopter Shot Down",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension| AND (|Rocket Launcher| OR |Gauss Cannon|)"
+  },
+  {
+    "name": "(ST) Vent Snarks",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Garage Health Station",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Guard Station Sniper Rifle",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Guard Station Shotgun",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Refinery Room Health Station",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Health Station Near Level Exit Guard",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(ST) Killed Gargantua",
+    "region": "Surface Tension",
+    "category": [
+      "Surface Tension"
+    ],
+    "requires": "|Surface Tension|"
+  },
+  {
+    "name": "(FAF) Health Station Near Broken Elevator",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "name": "(FAF) M16 Near Broken Elevator",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "name": "(FAF) Locked Room Dynamite",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "name": "(FAF) Locked Room H.E.V. Station",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "name": "(FAF) Health Station Near Lambda Labs Elevator",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "name": "(FAF) Entered Lambda Core",
+    "region": "\"Forget About Freeman!\"",
+    "category": [
+      "\"Forget About Freeman!\""
+    ],
+    "requires": "|\"Forget About Freeman!\"|"
+  },
+  {
+    "region": "Lambda Core",
+    "name": "(LC) Health Station After Elevator",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Assassin Room H.E.V. Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Assassin Room Health Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Rocket Launcher (Quake) Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Health Station After Checkpoint",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) H.E.V. Station After Checkpoint",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Gluon Gun Picked Up",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Maintinance Station Health Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Maintainance Station H.E.V. Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Coolant Pump 1 Turned On",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Coolant Pump 2 Turned On",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Health Station Near Guard",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Ripper Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Reactor Observation Plasma Rifle Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Port 03 Rocket Launcher (Quake) Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Port 01 Grenades",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Port 08 Plasma Rifle Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Final Observation Post Weapons",
+    "region": "Lambda Core",
+    "category": [
+      "Lamba Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Long Jump Module Pickup",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Final Health Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Final H.E.V. Station",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(LC) Teleport To Xen",
+    "region": "Lambda Core",
+    "category": [
+      "Lambda Core"
+    ],
+    "requires": "|Lambda Core|"
+  },
+  {
+    "name": "(XEN) Floating Island Healing Pool",
+    "region": "Xen",
+    "category": [
+      "Xen"
+    ],
+    "requires": "|Xen|"
+  },
+  {
+    "name": "(XEN) Teleported To Gonarch's Lair",
+    "region": "Xen",
+    "category": [
+      "Xen"
+    ],
+    "requires": "|Xen|"
+  },
+  {
+    "name": "(XEN) Floating Island Super Blaster",
+    "region": "Xen",
+    "category": [
+      "Xen"
+    ],
+    "requires": "|Xen|"
+  },
+  {
+    "name": "(GL) BFG 9000 Pickup",
+    "region": "Gonarch's Lair",
+    "category": [
+      "Gonarch's Lair"
+    ],
+    "requires": "|Gonarch's Lair|"
+  },
+  {
+    "name": "(GL) Killed Gonarch",
+    "region": "Gonarch's Lair",
+    "category": [
+      "Gonarch's Lair"
+    ],
+    "requires": "|Gonarch's Lair|",
+    "place_item": [
+      "Progressive Goal"
+    ]
+  },
+  {
+    "name": "(GL) Second Arena Healing Pool",
+    "region": "Gonarch's Lair",
+    "category": [
+      "Gonarch's Lair"
+    ],
+    "requires": "|Gonarch's Lair|"
+  },
+  {
+    "name": "(IL) Large Healing Pool",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Cave Rocket Launcher Pickup",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Cave Plasma Rifle Pickup",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Health Pool Near Spinning Rock ",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Tentacle Cave Healing Pool",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Gargantua Cave Snarks",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Grunt Egg Room Tripmines",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Factory Health Station ",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Final Assent Health Station 1",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Final Assent Health Station 2",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(IL) Enter Portal To Nihilanth",
+    "region": "Interloper",
+    "category": [
+      "Interloper"
+    ],
+    "requires": "|Interloper|"
+  },
+  {
+    "name": "(N) Defeat Nihilanth",
+    "region": "Nihilanth",
+    "victory": true,
+    "category": [
+      "Nihilanth"
+    ],
+    "requires": "|Nihilanth|",
+    "place_item": [
+      "Progressive Goal"
+    ]
+  }
+]

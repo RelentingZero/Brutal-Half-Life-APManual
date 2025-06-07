@@ -1,0 +1,93 @@
+{
+  "Spawn Room": {
+    "starting": true,
+    "connects_to": [
+      "Anomalous Materials",
+      "Unforeseen Consequences",
+      "Office Complex",
+      "\"We've Got Hostiles\"",
+      "Blast Pit",
+      "Power Up",
+      "On A Rail",
+      "Apprehension",
+      "Residue Processing",
+      "Questionable Ethics",
+      "Surface Tension",
+      "\"Forget About Freeman!\"",
+      "Lambda Core",
+      "Xen",
+      "Gonarch's Lair",
+      "Interloper",
+      "Nihilanth"
+    ],
+    "requires": []
+  },
+  "Anomalous Materials": {
+    "connects_to": [],
+    "requires": "|Anomalous Materials|"
+  },
+  "Unforeseen Consequences": {
+    "connects_to": [],
+    "requires": "|Unforeseen Consequences|"
+  },
+  "Office Complex": {
+    "connects_to": [],
+    "requires": "|Office Complex|"
+  },
+  "\"We've Got Hostiles\"": {
+    "connects_to": [],
+    "requires": "|\"We've Got Hostiles\"|"
+  },
+  "Blast Pit": {
+    "connects_to": [],
+    "requires": "|Blast Pit| AND (|@Early Weapon:2| OR |Grenades| OR |Satchell Charges|)"
+  },
+  "Power Up": {
+    "connects_to": [],
+    "requires": "|Power Up| AND (|@Early Weapon:3|)"
+  },
+  "On A Rail": {
+    "connects_to": [],
+    "requires": "|On A Rail| AND (|@Early Weapon:3| OR |@Mid Game Weapon:1|)"
+  },
+  "Apprehension": {
+    "connects_to": [],
+    "requires": "|Apprehension| AND (|@Early Weapon:3| OR |@Mid Game Weapon:2|)"
+  },
+  "Residue Processing": {
+    "connects_to": [],
+    "requires": "|Residue Processing|"
+  },
+  "Questionable Ethics": {
+    "connects_to": [],
+    "requires": "|Questionable Ethics| AND (|@Early Weapon:2| OR |@Mid Game Weapon:1| OR |@Late Weapon:1|)"
+  },
+  "Surface Tension": {
+    "connects_to": [],
+    "requires": "|Surface Tension| AND (|@Early Weapon:4| OR |@Mid Game Weapon:4| OR |@Late Weapon:2|)"
+  },
+  "\"Forget About Freeman!\"": {
+    "connects_to": [],
+    "requires": "|\"Forget About Freeman!\"| AND (|@Early Weapon:3|) AND (|@Mid Game Weapon:2|) AND (|@Late Weapon:2|)"
+  },
+  "Lambda Core": {
+    "connects_to": [],
+    "requires": "|Lambda Core| AND (|@Early Weapon:4| AND |@Mid Game Weapon:4|) OR (|@Late Weapon:4|) "
+  },
+  "Xen": {
+    "connects_to": [],
+    "requires": "|Xen| AND |Long Jump Module| "
+  },
+  "Gonarch's Lair": {
+    "connects_to": [],
+    "requires": "|Gonarch's Lair| AND |Long Jump Module| AND (|@Early Weapon:5|) AND (|@Mid Game Weapon:4|) AND (|@Late Weapon:3|) "
+  },
+  "Interloper": {
+    "connects_to": [],
+    "requires": "|Interloper| AND |Long Jump Module| AND (|@Early Weapon:3|) AND (|@Mid Game Weapon:2|) AND (|@Late Weapon:2|) "
+  },
+  "Nihilanth": {
+    "connects_to": [],
+    "requires": "|Nihilanth| AND |Long Jump Module| AND (|@Early Weapon:5|) AND (|@Mid Game Weapon:5|) AND (|@Late Weapon:3|) "
+  }
+}

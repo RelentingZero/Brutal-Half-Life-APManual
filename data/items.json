@@ -1,0 +1,460 @@
+[
+  {
+    "count": "1",
+    "name": "Tram Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Anomalous Materials",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unforeseen Consequences",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Office Complex",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"We've Got Hostiles\"",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blast Pit",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Power Up",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "On A Rail",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apprehension",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Residue Processing",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Questionable Ethics",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Surface Tension",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"Forget About Freeman!\"",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lambda Core",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Xen",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gonarch's Lair",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Interloper",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nihilanth",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Training Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "G-Man Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Pistol",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Revolver",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Deagle",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M16",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "MP5",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ripper",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M40",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Launcher (Quake)",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Launcher",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gauss Cannon",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gluon Gun",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hivehand",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dynamite ",
+    "category": [
+      "Mid Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aerosol Can",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades",
+    "category": [
+      "Mid Game Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Satchell Charges",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tripmines",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snarks",
+    "category": [
+      "Early Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "B.F.G. 9000",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "USAS-12",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Plasma Rifle",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Blaster",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LMG",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sniper Rifle",
+    "category": [
+      "Late Weapon",
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Long Jump Module",
+    "category": [
+      "Suit Upgrade",
+      "Movement"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "H.E.V. Suit",
+    "category": [
+      "H.E.V. Suit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mantle",
+    "category": [
+      "Movement"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kick",
+    "category": [
+      "Suit Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Wielding",
+    "category": [
+      "Suit Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Use Syringe",
+    "category": [
+      "Suit Upgrade"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Goal",
+    "category": [
+      "Victory"
+    ],
+    "progression": true
+  }
+]
